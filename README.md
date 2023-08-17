@@ -6,5 +6,5 @@
  '같이 일해서 좋았다' 라고 들을 수 있는 개발자가 되도록 노력하겠습니다. 열심히 하겠습니다. 앞으로 잘 부탁드립니다.<br>
 
  <h3>🌱 I’m currently learning ...</h3>
-- Spring</br>
+- Spring, MySQL</br>
 - Docker, Server
