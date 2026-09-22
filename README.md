@@ -90,7 +90,8 @@ AI가 발전하는 시대 속에서 변치 않는 것이 있다면 '목적'이�
    
 
 ## 📬 Contact
-* **Email** : jihyer0395@gmail.com   
+* **Email** : jihyer0395@gmail.com
+* **Portfolio** : https://dev-jihyemoon.github.io/jihye-portfolio/
 
 ---
    
