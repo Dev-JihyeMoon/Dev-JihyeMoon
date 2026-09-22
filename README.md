@@ -1,9 +1,9 @@
-## Hi. I'm Moon Jihye. 👋
+# Hi. I'm Moon Jihye. 👋
 AI가 발전하는 시대 속에서 변치 않는 것이 있다면 '목적'이라 생각합니다. 주어진 상황에서 본질이 무엇인지 파악하고 최적을 찾을 수 있는 개발자로 성장중인 문지혜입니다.
 
    
 
-## 🛠 Tech Stack
+## Tech Stack
 <table>
   <tr>
     <td align="center" width="140">Language</td>
@@ -53,11 +53,11 @@ AI가 발전하는 시대 속에서 변치 않는 것이 있다면 '목적'이�
 
    
 
-### Project
+## Project
 
 
 
-### Awards & Certifications
+## Awards & Certifications
 | 기간 | 내용 | 수상 / 등급 | 주최 · 발급 |
 |:---:|:---|:---:|:---|
 | 2026.04 | OPIc 일본어 | AL | ACTFL |
@@ -70,7 +70,7 @@ AI가 발전하는 시대 속에서 변치 않는 것이 있다면 '목적'이�
 
    
 
-### History
+## History
 > **2026.06 ~ 현재** · 🎓 교육  
 > **멋쟁이 사자처럼 | 백엔드 부트캠프 26기** — Java & Spring  
 > Spring Boot 기반 백엔드 개발과 AWS 인프라 운영 실무 중심 교육
