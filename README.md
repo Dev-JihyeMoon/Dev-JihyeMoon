@@ -1,11 +1,3 @@
-<div align="center">
-  <a href="https://dev-jihyemoon.github.io/Pixel-slot-machine/">
-    <img src="./slot-machine.gif" alt="Pixel Slot Machine" />
-  </a>
-</div>   
-   
----
-
 # Hi. I'm Moon Jihye. 👋
 AI가 발전하는 시대 속에서 변치 않는 것이 있다면 '목적'이라 생각합니다. 주어진 상황에서 본질이 무엇인지 파악하고 최적을 찾을 수 있는 개발자로 성장중인 문지혜입니다.
 
@@ -100,7 +92,14 @@ AI가 발전하는 시대 속에서 변치 않는 것이 있다면 '목적'이�
 ## 📬 Contact
 * **Email** : jihyer0395@gmail.com   
 
-
+---
+   
+<div align="center">
+  <a href="https://dev-jihyemoon.github.io/Pixel-slot-machine/">
+    <img src="./slot-machine.gif" alt="Pixel Slot Machine" />
+  </a>
+</div>   
+   
 
 <!--
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=moonjihye)](https://solved.ac/moonjihye/)
