@@ -48,6 +48,8 @@ AI가 발전하는 시대 속에서 변치 않는 것이 있다면 '목적'이�
 ## 📬 Contact
 * **Email** : jihyer0395@gmail.com
 ---
+
+<!--
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=moonjihye)](https://solved.ac/moonjihye/)
 ![Stars](https://img.shields.io/github/stars/Dev-JihyeMoon?style=flat-square&label=Stars)
     
@@ -56,4 +58,6 @@ AI가 발전하는 시대 속에서 변치 않는 것이 있다면 '목적'이�
     <img src="./slot-machine.gif" alt="Pixel Slot Machine" />
   </a>
 </div>
+
+-->
 
