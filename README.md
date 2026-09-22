@@ -1,5 +1,5 @@
 <div align="center">
-  <a href="https://your-username.github.io/your-repo/pixel-slot-machine.html">
+  <a href="https://dev-jihyemoon.github.io/Pixel-slot-machine/">
     <img src="./slot-machine.gif" alt="Pixel Slot Machine" />
   </a>
 </div>   
