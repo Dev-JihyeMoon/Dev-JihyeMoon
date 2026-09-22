@@ -13,7 +13,6 @@ AI가 발전하는 시대 속에서 변치 않는 것이 있다면 '목적'이�
 ![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
 ![Gradle](https://img.shields.io/badge/Gradle-02303A?style=for-the-badge&logo=gradle&logoColor=white)
 ![Firebase](https://img.shields.io/badge/Firebase-DD2C00?style=for-the-badge&logo=firebase&logoColor=white)
-![Spring Data JPA](https://img.shields.io/badge/Spring%20Data%20JPA-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
 ![Spring Security](https://img.shields.io/badge/Spring%20Security-6DB33F?style=for-the-badge&logo=springsecurity&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
@@ -49,6 +48,12 @@ AI가 발전하는 시대 속에서 변치 않는 것이 있다면 '목적'이�
 ## 📬 Contact
 * **Email** : jihyer0395@gmail.com
 ---
+[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=moonjihye)](https://solved.ac/moonjihye/)
+![Stars](https://img.shields.io/github/stars/Dev-JihyeMoon?style=flat-square&label=Stars)
+    
 <div align="center">
-[![Pixel Slot Machine](./slot-machine.gif)](https://your-username.github.io/your-repo/pixel-slot-machine.html)
+  <a href="https://your-username.github.io/your-repo/pixel-slot-machine.html">
+    <img src="./slot-machine.gif" alt="Pixel Slot Machine" />
+  </a>
 </div>
+
