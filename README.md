@@ -1,9 +1,20 @@
-## Hi. I'm Moon Jihye. 👋
-AI가 발전하는 시대 속에서 변치 않는 것이 있다면 '목적'이라 생각합니다. 주어진 상황에서 본질이 무엇인지 파악하고 최적을 찾을 수 있는 개발자로 성장중인 문지혜입니다.
+<div align="center">
 
-   
+### 👋 Hi. I'm Moon Jihye.
 
-## Tech Stack
+AI가 발전하는 시대 속에서 변치 않는 것이 있다면 **'목적'** 이라 생각합니다.  
+주어진 상황에서 본질이 무엇인지 파악하고 최적을 찾을 수 있는 개발자로 성장 중입니다.
+
+</div>
+
+<br>
+
+---
+
+<br>
+
+## 🛠 Tech Stack
+
 <table>
   <tr>
     <td align="center" width="140">Language</td>
@@ -51,32 +62,37 @@ AI가 발전하는 시대 속에서 변치 않는 것이 있다면 '목적'이�
   </tr>
 </table>
 
-   
-## Project
+<br>
+
+## 🚀 Project
 
 | 기간 | 프로젝트 | 역할 | 기술 |
 |:---:|:---|:---:|:---|
 | 2026.08 ~ | **trauma chat** — 트라우마 특화 AI 서비스 | 풀스택 | `진행 중` |
 | 2024.08 | **Beeper** — 디지털 취약계층용 실시간 영상통화 봉사 매칭 | BE · Infra | `Spring Boot` `WebRTC` `Firebase` `Docker` |
-| 2023.07 ~ 2024.02 | **MOJI** — 소모임 매칭 및 운영 관리 웹 서비스 | BE · Infra | `Spring Boot` `Spring Security` `Docker` `Jenkins` |
+| 2023.07 ~ 2024.02 | **MOJI** — 소모임 매칭 및 운영 관리 웹 서비스 | BE 팀장 · Infra | `Spring Boot` `Spring Security` `Docker` `Jenkins` |
 | 2023.06 ~ 2023.09 | **GitBoard** — 오픈소스 프로젝트 운영 보조 및 홍보 플랫폼 | BE · Infra | `Spring Boot` `Docker` `Swagger` |
 | 2022.08 ~ 2023.05 | **내일하루** — 동호회 모집 서비스 | BE | `Spring Boot` `MySQL` `AWS` |
 | 2022.03 ~ 2022.12 | **한이음 ICT** — 졸음 운전 방지 시스템 | HW · 문서 | `Python` `OpenCV` `Raspberry Pi` |
 
-## Awards & Certifications
+<br>
+
+## 🏆 Awards & Certifications
+
 | 기간 | 내용 | 수상 / 등급 | 주최 · 발급 |
 |:---:|:---|:---:|:---|
 | 2026.04 | OPIc 일본어 | AL | ACTFL |
 | 2023.05 | 내일하루 — 실시간 모임 매칭 웹 플랫폼 | 🥈 우수상 | 강남대학교 학술제 |
 | 2023.05 | 멋사 대학 동아리 자체 웹 서비스 | 🥉 장려상 | 강남대학교 학술제 |
-| 2022.12 | (도시데이터 해커톤 동시 수상)    공공데이터 활용 방안 및 웹 서비스 개발 내용 발표 | 🥉 장려상 | 강남대학교 학술제 |
+| 2022.12 | 공공데이터 활용 시설 관리 웹 서비스 | 🥉 장려상 | 강남대학교 학술제 |
 | 2022.12 | 공공데이터 활용 시설 관리 웹 서비스 | 🏅 발전상 | 서울시 IoT 도시데이터 해커톤 |
-| 2022.12 | (한이음 동시 수상)    2022년도 한이음 활동 내용 및 눈 깜빡임 감지 알고리즘 발표 | 🥈 우수상 | 강남대학교 학술제 |
+| 2022.12 | 라즈베리파이 & OpenCV 졸음 운전 방지 시스템 | 🥈 우수상 | 강남대학교 학술제 |
 | 2022.12 | 라즈베리파이 & OpenCV 졸음 운전 방지 시스템 | 🥉 장려상 | 한이음 IoT 공모전 |
 
-   
+<br>
 
-## History
+## 📖 History
+
 > **2026.06 ~ 현재** · 🎓 교육  
 > **멋쟁이 사자처럼 | 백엔드 부트캠프 26기** — Java & Spring  
 > Spring Boot 기반 백엔드 개발과 AWS 인프라 운영 실무 중심 교육
@@ -92,27 +108,20 @@ AI가 발전하는 시대 속에서 변치 않는 것이 있다면 '목적'이�
 > **2022.03 ~ 2022.12** · 💡 경험  
 > **한이음 ICT 멘토링 프로젝트**  
 > 산학 연계 · 요구사항 분석~발표 전 과정 수행, 학술제·공모전 수상
-   
-   
+
+<br>
 
 ## 📬 Contact
-* **Email** : jihyer0395@gmail.com
-* **Portfolio** : https://dev-jihyemoon.github.io/jihye-portfolio/
+
+**Email** · jihyer0395@gmail.com  
+**Portfolio** · [dev-jihyemoon.github.io/jihye-portfolio](https://dev-jihyemoon.github.io/jihye-portfolio/)
+
+<br>
 
 ---
-   
+
 <div align="center">
   <a href="https://dev-jihyemoon.github.io/Pixel-slot-machine/">
     <img src="./slot-machine.gif" alt="Pixel Slot Machine" />
   </a>
-</div>   
-   
-
-<!--
-[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=moonjihye)](https://solved.ac/moonjihye/)
-![Stars](https://img.shields.io/github/stars/Dev-JihyeMoon?style=flat-square&label=Stars)
-    
-
-
--->
-
+</div>
