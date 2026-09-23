@@ -52,9 +52,36 @@ AI가 발전하는 시대 속에서 변치 않는 것이 있다면 '목적'이�
 </table>
 
    
-
 ## Project
 
+> **trauma chat** · `2026.08 ~ 진행 중`  
+> 개인 프로젝트 / 풀스택  
+> 트라우마 특화 AI 서비스
+
+> **Beeper** · `2024.08` · 1개월 · 4인  
+> 백엔드 및 인프라 담당  
+> 디지털 취약계층용 실시간 영상통화 봉사 매칭 서비스  
+> `Spring Boot` `MySQL` `WebRTC` `WebSocket` `Firebase(FCM)` `AWS EC2` `Docker` `Jenkins` `Nginx`
+
+> **MOJI** · `2023.07 ~ 2024.02` · 7개월 · 6인  
+> 백엔드 팀장 및 인프라 담당  
+> 소모임 매칭 및 운영 관리 웹 서비스  
+> `Spring Boot` `Spring Security` `JPA` `MySQL` `AWS EC2 + RDS` `Docker` `Jenkins`
+
+> **GitBoard** · `2023.06 ~ 2023.09` · 3개월 · 4인  
+> 백엔드 및 인프라 담당  
+> 오픈소스 프로젝트 운영 보조 및 홍보 웹 플랫폼  
+> `Spring Boot` `Spring Security` `JPA` `MySQL` `AWS EC2 + RDS` `Docker` `Swagger`
+
+> **내일하루** · `2022.08 ~ 2023.05` · 9개월 · 5인  
+> 백엔드 담당  
+> 동호회 모집 서비스  
+> `Spring Boot` `MySQL` `AWS EC2` `AWS RDS`
+
+> **한이음 ICT 멘토링** · `2022.03 ~ 2022.12` · 9개월 · 4인  
+> 문서 작업 및 하드웨어 담당  
+> 라즈베리파이 & OpenCV 졸음 운전 방지 시스템  
+> `Python` `OpenCV` `Raspberry Pi` `Arduino`
 
 
 ## Awards & Certifications
