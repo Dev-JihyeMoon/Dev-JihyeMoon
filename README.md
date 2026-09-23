@@ -58,7 +58,7 @@ AI가 발전하는 시대 속에서 변치 않는 것이 있다면 '목적'이�
 |:---:|:---|:---:|:---|
 | 2026.08 ~ | **trauma chat** — 트라우마 특화 AI 서비스 | 풀스택 | `진행 중` |
 | 2024.08 | **Beeper** — 디지털 취약계층용 실시간 영상통화 봉사 매칭 | BE · Infra | `Spring Boot` `WebRTC` `Firebase` `Docker` |
-| 2023.07 ~ 2024.02 | **MOJI** — 소모임 매칭 및 운영 관리 웹 서비스 | BE 팀장 · Infra | `Spring Boot` `Spring Security` `Docker` `Jenkins` |
+| 2023.07 ~ 2024.02 | **MOJI** — 소모임 매칭 및 운영 관리 웹 서비스 | BE · Infra | `Spring Boot` `Spring Security` `Docker` `Jenkins` |
 | 2023.06 ~ 2023.09 | **GitBoard** — 오픈소스 프로젝트 운영 보조 및 홍보 플랫폼 | BE · Infra | `Spring Boot` `Docker` `Swagger` |
 | 2022.08 ~ 2023.05 | **내일하루** — 동호회 모집 서비스 | BE | `Spring Boot` `MySQL` `AWS` |
 | 2022.03 ~ 2022.12 | **한이음 ICT** — 졸음 운전 방지 시스템 | HW · 문서 | `Python` `OpenCV` `Raspberry Pi` |
