@@ -10,6 +10,8 @@ AI가 발전하는 시대 속에서 변치 않는 것이 있다면 **'목적'** 
 <br>
 
 ---
+[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=moonjihye)](https://solved.ac/moonjihye/)
+![jihye's GitHub stats](https://github-readme-stats-fast.vercel.app/api?username=Dev-JihyeMoon&show_icons=true&theme=default&hide_border=true)
 
 <br>
 
