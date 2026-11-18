@@ -116,7 +116,6 @@ AI가 발전하는 시대 속에서 변치 않는 것이 있다면 **'목적'** 
 <br>
 
 ---
-Click me!
 <div align="center">
   <a href="https://dev-jihyemoon.github.io/Pixel-slot-machine/">
     <img src="./slot-machine.gif" alt="Pixel Slot Machine" />
